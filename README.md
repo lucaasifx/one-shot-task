@@ -67,10 +67,3 @@ O software foi projetado para ser compatível com o simulador **Wokwi** e com a 
 
 ---
 
-## 📹 Demonstração em Vídeo
-📺 **Veja o projeto em ação**:
-
-🔗 [Vídeo de demonstração no hardware](https://www.youtube.com/)
-
----
-
